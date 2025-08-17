@@ -10,5 +10,3 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek ini:
 
    * Setelah backend berjalan dengan baik, buka file `index.html` di proyek ini.
    * Jalankan file tersebut menggunakan **Live Server** di editor teks seperti Visual Studio Code.
-
-Dengan langkah-langkah di atas, aplikasi frontend Anda sudah siap berjalan dan terhubung dengan backend yang telah di-setup.
